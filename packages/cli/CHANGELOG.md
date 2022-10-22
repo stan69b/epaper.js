@@ -1,5 +1,12 @@
 # @epaperjs/cli
 
+## 2.1.4
+
+### Patch Changes
+
+-   Updated dependencies [a142300]
+    -   @epaperjs/rpi-10in3@2.0.5
+
 ## 2.1.3
 
 ### Patch Changes

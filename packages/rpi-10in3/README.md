@@ -1,4 +1,4 @@
-# @epaperjs/rpi-7in5-v2
+# @epaperjs/rpi-10in3
 
 Node bindings for [Waveshare 10.3" v2](https://www.waveshare.com/10.3inch-e-Paper.htm)
 

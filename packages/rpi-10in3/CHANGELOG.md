@@ -1,4 +1,4 @@
-# @epaperjs/rpi-7in5-v2
+# @epaperjs/rpi-10in3-v2
 
 ## 2.0.5
 

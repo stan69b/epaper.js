@@ -193,18 +193,3 @@ void EPD_IT8951_4bp_Refresh(UBYTE *Frame_Buf, UWORD X, UWORD Y, UWORD W, UWORD H
 void EPD_IT8951_8bp_Refresh(UBYTE *Frame_Buf, UWORD X, UWORD Y, UWORD W, UWORD H, bool Hold, UDOUBLE Target_Memory_Addr);
 
 #endif
-Footer
-© 2022 GitHub, Inc.Footer navigation
-                        Terms
-                            Privacy
-                                Security
-                                    Status
-                                        Docs
-                                            Contact GitHub
-                                                Pricing
-                                                    API
-                                                        Training
-                                                            Blog
-                                                                About
-                                                                    IT8951 -
-                    ePaper / Raspberry / lib / e - Paper at master · waveshare / IT8951 - ePaperIT8951 - ePaper / EPD_IT8951.h at master · waveshare / IT8951 - ePaper

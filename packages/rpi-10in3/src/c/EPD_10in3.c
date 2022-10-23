@@ -842,18 +842,3 @@ void EPD_IT8951_8bp_Refresh(UBYTE *Frame_Buf, UWORD X, UWORD Y, UWORD W, UWORD H
         EPD_IT8951_Display_AreaBuf(X, Y, W, H, GC16_Mode, Target_Memory_Addr);
     }
 }
-Footer
-© 2022 GitHub, Inc.Footer navigation
-                        Terms
-                            Privacy
-                                Security
-                                    Status
-                                        Docs
-                                            Contact GitHub
-                                                Pricing
-                                                    API
-                                                        Training
-                                                            Blog
-                                                                About
-                                                                    IT8951 -
-                    ePaper / EPD_IT8951.c at master · waveshare / IT8951 - ePaper

@@ -15,7 +15,7 @@ Napi::Number DEV_Init(const Napi::CallbackInfo &info)
 Napi::Value Init(const Napi::CallbackInfo &info)
 {
     Napi::Env env = info.Env();
-    EPD_10IN3_Init();
+    EPD_IT8951_Init(1500);
     return env.Undefined();
 }
 
@@ -30,14 +30,14 @@ Napi::Value Display(const Napi::CallbackInfo &info)
 Napi::Value Clear(const Napi::CallbackInfo &info)
 {
     Napi::Env env = info.Env();
-    EPD_10IN3_Clear();
+    EPD_IT8951_Clear_Refresh(NULL, NULL);
     return env.Undefined();
 }
 
 Napi::Value Sleep(const Napi::CallbackInfo &info)
 {
     Napi::Env env = info.Env();
-    EPD_10IN3_Sleep();
+    EPD_IT8951_Sleep();
     return env.Undefined();
 }
 
